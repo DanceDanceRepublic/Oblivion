@@ -1,3 +1,11 @@
+# TURN OFF YOUR ANTIVIRUS
+# TURN OFF YOUR ANTIVIRUS
+# TURN OFF YOUR ANTIVIRUS
+# Why?
+The reason why we ask you to turn off your Anti-Virus is to prevent your anti-virus from deleting the cheat program as the cheat program is flaged for injection of another game. Every/almost every cheat program is flaged for this vary reason and we ask you to turn it off.
+# PASSWORD: 1234
+# Why do you have a password?
+We have a password so the program doesn't get deleted by your anti-virus, because I personally know how much of a irritation that is when your in a middle of the game yet you almost win and your cheat program get deleted then you lose.
 # Oblivion
 Obilivon is a Valorant 3rd partied advantage program that allows you to enhance your experience beyond limitations.
 # FEATURES
